@@ -18,6 +18,6 @@
     "agents": "./agents/java-dependency-decompiler.md",
     "mcpServers": "./mcp.json",
     "skills": [
-      "skills/amap-maps-weather"
+      "./skills/amap-maps-weather"
     ]
 }
