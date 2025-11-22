@@ -16,5 +16,8 @@
         "./commands/hello.md"
     ],
     "agents": "./agents/java-dependency-decompiler.md",
-    "mcpServers": "./mcp.json"
+    "mcpServers": "./mcp.json",
+    "skills": [
+      "skills/amap-maps-weather"
+    ]
 }
