@@ -1,0 +1,20 @@
+{
+    "name": "test-plugin",
+    "description": "编写claude插件的测试插件",
+    "version": "1.0.0",
+    "author": {
+        "name": "wangx"
+    },
+    "repository": "https://github.com/wx-coding/test-plugins",
+    "license": "MIT",
+    "keywords": [
+        "test",
+        "map",
+        "weather"
+    ],
+    "commands": [
+        "./commands/hello.md"
+    ],
+    "agents": "./agents/",
+    "mcpServers": "./mcp.json"
+}

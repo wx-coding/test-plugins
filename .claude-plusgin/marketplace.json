@@ -1,0 +1,25 @@
+{
+  "name": "test-claude-plugins",
+  "owner": {
+    "name": "wangx",
+    "email": "",
+    "url": "https://github.com/wx-coding/test-plugins.git"
+  },
+  "metadata": {
+    "description": "测试claude工具",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "test-claude-plugins",
+      "source": "./plugins/test-plugin1",
+      "strict": true,
+      "description": "test test test",
+      "version": "1.0.0",
+      "keywords": ["map", "weather"],
+      "license": "MIT",
+      "homepage": "https://github.com/wx-coding/test-plugins/-/plugins/test-plugin1",
+      "repository": "https://github.com/wx-coding/test-plugins.git"
+    }
+  ]
+}
