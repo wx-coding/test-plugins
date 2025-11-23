@@ -11,14 +11,14 @@
   },
   "plugins": [
     {
-      "name": "test-claude-plugins",
-      "source": "./plugins/test-plugin1",
+      "name": "map-plugin",
+      "source": "./plugins/map-plugin",
       "strict": true,
-      "description": "test test test",
+      "description": "map weather",
       "version": "1.0.0",
       "keywords": ["map", "weather"],
       "license": "MIT",
-      "homepage": "https://github.com/wx-coding/test-plugins/-/plugins/test-plugin1",
+      "homepage": "https://github.com/wx-coding/test-plugins/-/plugins/map-plugin",
       "repository": "https://github.com/wx-coding/test-plugins.git"
     }
   ]

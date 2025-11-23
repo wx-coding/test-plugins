@@ -1,5 +1,5 @@
 {
-    "name": "test-plugin",
+    "name": "map-plugin",
     "description": "编写claude插件的测试插件",
     "version": "1.0.0",
     "author": {
