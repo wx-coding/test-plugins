@@ -1,0 +1,16 @@
+{
+    "name": "lyy-dev-plugin",
+    "description": "日常开发常见插件",
+    "version": "1.0.0",
+    "author": {
+        "name": "wangx"
+    },
+    "repository": "https://github.com/wx-coding/wx-cc-plugins",
+    "license": "MIT",
+    "keywords": [
+        "dev",
+        "常用插件"
+    ],
+    "agents": "./agents/code-reviewer.md",
+    "mcpServers": "./mcp.json"
+}

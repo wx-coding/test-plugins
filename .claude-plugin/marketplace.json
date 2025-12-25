@@ -3,7 +3,7 @@
   "owner": {
     "name": "wangx",
     "email": "",
-    "url": "https://github.com/wx-coding/test-plugins.git"
+    "url": "https://github.com/wx-coding/wx-cc-plugins.git"
   },
   "metadata": {
     "description": "测试claude工具",
@@ -18,8 +18,19 @@
       "version": "1.0.0",
       "keywords": ["map", "weather"],
       "license": "MIT",
-      "homepage": "https://github.com/wx-coding/test-plugins/-/plugins/map-plugin",
-      "repository": "https://github.com/wx-coding/test-plugins.git"
+      "homepage": "https://github.com/wx-coding/wx-cc-plugins",
+      "repository": "https://github.com/wx-coding/wx-cc-plugins.git"
+    },
+    {
+      "name": "lyy-dev-plugin",
+      "source": "./plugins/lyy-dev-plugin",
+      "strict": true,
+      "description": "日常开发常见插件",
+      "version": "1.0.0",
+      "keywords": ["dev", "常用插件"],
+      "license": "MIT",
+      "homepage": "https://github.com/wx-coding/wx-cc-plugins",
+      "repository": "https://github.com/wx-coding/wx-cc-plugins.git"
     }
   ]
 }
