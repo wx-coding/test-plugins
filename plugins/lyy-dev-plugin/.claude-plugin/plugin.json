@@ -12,5 +12,8 @@
         "常用插件"
     ],
     "agents": "./agents/code-reviewer.md",
-    "mcpServers": "./mcp.json"
+    "mcpServers": "./mcp.json",
+    "skills": [
+        "./skills/skill-creator"
+    ]
 }
