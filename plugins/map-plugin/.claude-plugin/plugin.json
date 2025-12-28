@@ -8,12 +8,8 @@
     "repository": "https://github.com/wx-coding/test-plugins",
     "license": "MIT",
     "keywords": [
-        "test",
-        "map",
-        "weather"
-    ],
-    "commands": [
-        "./commands/hello.md"
+        "dev",
+        "create skill"
     ],
     "agents": "./agents/java-dependency-decompiler.md",
     "mcpServers": "./mcp.json",
