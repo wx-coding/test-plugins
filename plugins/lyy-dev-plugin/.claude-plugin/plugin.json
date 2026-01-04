@@ -5,7 +5,7 @@
     "author": {
         "name": "wangx"
     },
-    "repository": "https://github.com/wx-coding/wx-cc-plugins",
+    "repository": "https://github.com/wangx-wx/wx-cc-plugins",
     "license": "MIT",
     "keywords": [
         "dev",
@@ -14,6 +14,7 @@
     "agents": "./agents/code-reviewer.md",
     "mcpServers": "./mcp.json",
     "skills": [
-        "./skills/skill-creator"
+        "./skills/skill-creator",
+        "./skills/mcp-builder"
     ]
 }
